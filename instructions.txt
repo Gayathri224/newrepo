@@ -1,1 +1,2 @@
 Here are instructions:
+ 1. Please refer the index.html file carefully and make necessary hanges to it.
